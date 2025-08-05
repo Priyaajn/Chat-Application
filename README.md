@@ -9,7 +9,6 @@ This is a web-based real-time chat application built using **Node.js**, **Expres
 - 👤 Username-based login (no duplicates)
 - 💬 Real-time messaging via WebSockets
 - 📝 Message sender names and timestamps
-- 🔄 Auto-scroll and instant updates
 - 👋 Join/Leave notifications
 - 🎨 Simple and responsive UI
 
@@ -23,5 +22,4 @@ This is a web-based real-time chat application built using **Node.js**, **Expres
 
 ---
 
-## 📁 Project Structure
 
