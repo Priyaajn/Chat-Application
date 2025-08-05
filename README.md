@@ -1,4 +1,4 @@
-# 💬 Real-Time Chat Application
+#  Real-Time Chat Application
 
 This is a web-based real-time chat application built using **Node.js**, **Express**, **Socket.io**, **HTML**, **CSS**, and **JavaScript**.
 
